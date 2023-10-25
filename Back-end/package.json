@@ -1,0 +1,24 @@
+{
+  "name": "back-end",
+  "version": "1.0.0-dev",
+  "description": "Gacor Kang",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mednoob/to-do-list-dino-ajur.git"
+  },
+  "author": "",
+  "license": "AGPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Mednoob/to-do-list-dino-ajur/issues"
+  },
+  "homepage": "https://github.com/Mednoob/to-do-list-dino-ajur#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mysql2": "^3.6.2",
+    "sequelize": "^6.33.0"
+  }
+}
